@@ -59,7 +59,6 @@ h1 {
 }
 
 @media(max-width: 1200px) {
-
     .screen,
     .controls {
         width: 90%;
